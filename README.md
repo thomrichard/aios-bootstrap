@@ -9,6 +9,22 @@ tourne, amorcé avec ta vraie matière.
 
 ---
 
+## Installation en 30 secondes
+
+Pas besoin de télécharger quoi que ce soit à la main. Ouvre Claude Code et colle ce message :
+
+```
+Installe ce skill : télécharge
+https://raw.githubusercontent.com/thomrichard/aios-bootstrap/main/aios-bootstrap.md
+et enregistre-le dans ~/.claude/skills/aios-bootstrap/SKILL.md
+puis confirme qu'il est bien détecté.
+```
+
+Puis écris : **« crée mon second cerveau »**. C'est tout — l'interview démarre et tout se
+construit sous tes yeux.
+
+---
+
 ## Ce que tu obtiens
 
 ```
