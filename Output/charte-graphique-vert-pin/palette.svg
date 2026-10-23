@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1326" height="798" viewBox="0 0 1326 798" role="img" aria-label="Palette de la charte vert pin">
+<rect width="1326" height="798" fill="#FAF8F3"/>
+<text x="40" y="68" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" fill="#0C1A15">Charte vert pin — palette</text>
+<text x="40" y="130" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Pin</text>
+<text x="40" y="152" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">signature</text>
+<rect x="210" y="100" width="86" height="72" rx="6" fill="#EFF6F2" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">50</text>
+<text x="219" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#EFF6F2</text>
+<rect x="300" y="100" width="86" height="72" rx="6" fill="#DCEBE3" stroke="#DDE2DE" stroke-width="1"/>
+<text x="309" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="309" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#DCEBE3</text>
+<rect x="390" y="100" width="86" height="72" rx="6" fill="#B7D7C7"/>
+<text x="399" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">200</text>
+<text x="399" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#B7D7C7</text>
+<rect x="480" y="100" width="86" height="72" rx="6" fill="#83BBA4"/>
+<text x="489" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">300</text>
+<text x="489" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#83BBA4</text>
+<rect x="570" y="100" width="86" height="72" rx="6" fill="#4F9B7E"/>
+<text x="579" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">400</text>
+<text x="579" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#4F9B7E</text>
+<rect x="660" y="100" width="86" height="72" rx="6" fill="#327A60"/>
+<text x="669" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">500</text>
+<text x="669" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#327A60</text>
+<rect x="750" y="100" width="86" height="72" rx="6" fill="#26604C"/>
+<text x="759" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">600</text>
+<text x="759" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#26604C</text>
+<rect x="840" y="100" width="86" height="72" rx="6" fill="#1C4B3C"/>
+<text x="849" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">700</text>
+<text x="849" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#1C4B3C</text>
+<rect x="930" y="100" width="86" height="72" rx="6" fill="#163526"/>
+<text x="939" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">800</text>
+<text x="939" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#163526</text>
+<rect x="1020" y="100" width="86" height="72" rx="6" fill="#10241C"/>
+<text x="1029" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">900</text>
+<text x="1029" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#10241C</text>
+<rect x="1110" y="100" width="86" height="72" rx="6" fill="#0C1A15"/>
+<text x="1119" y="120" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">950</text>
+<text x="1119" y="162" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#0C1A15</text>
+<text x="40" y="224" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Ambre</text>
+<text x="40" y="246" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">action, signal</text>
+<rect x="210" y="194" width="86" height="72" rx="6" fill="#FDF4E4" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="219" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#FDF4E4</text>
+<rect x="300" y="194" width="86" height="72" rx="6" fill="#F9E8C8" stroke="#DDE2DE" stroke-width="1"/>
+<text x="309" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">200</text>
+<text x="309" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F9E8C8</text>
+<rect x="390" y="194" width="86" height="72" rx="6" fill="#F3D69C"/>
+<text x="399" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">300</text>
+<text x="399" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F3D69C</text>
+<rect x="480" y="194" width="86" height="72" rx="6" fill="#E8BE6E"/>
+<text x="489" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">400</text>
+<text x="489" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#E8BE6E</text>
+<rect x="570" y="194" width="86" height="72" rx="6" fill="#D9A441"/>
+<text x="579" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">500</text>
+<text x="579" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#D9A441</text>
+<rect x="660" y="194" width="86" height="72" rx="6" fill="#B07C1E"/>
+<text x="669" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">600</text>
+<text x="669" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#B07C1E</text>
+<rect x="750" y="194" width="86" height="72" rx="6" fill="#8A5F14"/>
+<text x="759" y="214" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">700</text>
+<text x="759" y="256" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#8A5F14</text>
+<text x="40" y="318" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Brique</text>
+<text x="40" y="340" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">accent chaud</text>
+<rect x="210" y="288" width="86" height="72" rx="6" fill="#FDF1ED" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">50</text>
+<text x="219" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#FDF1ED</text>
+<rect x="300" y="288" width="86" height="72" rx="6" fill="#FBE5DF" stroke="#DDE2DE" stroke-width="1"/>
+<text x="309" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="309" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#FBE5DF</text>
+<rect x="390" y="288" width="86" height="72" rx="6" fill="#F5C9BD"/>
+<text x="399" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">200</text>
+<text x="399" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F5C9BD</text>
+<rect x="480" y="288" width="86" height="72" rx="6" fill="#EBA391"/>
+<text x="489" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">300</text>
+<text x="489" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#EBA391</text>
+<rect x="570" y="288" width="86" height="72" rx="6" fill="#DC7C64"/>
+<text x="579" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">400</text>
+<text x="579" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#DC7C64</text>
+<rect x="660" y="288" width="86" height="72" rx="6" fill="#C85B41"/>
+<text x="669" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">500</text>
+<text x="669" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#C85B41</text>
+<rect x="750" y="288" width="86" height="72" rx="6" fill="#B4472F"/>
+<text x="759" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">600</text>
+<text x="759" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#B4472F</text>
+<rect x="840" y="288" width="86" height="72" rx="6" fill="#94331F"/>
+<text x="849" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">700</text>
+<text x="849" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#94331F</text>
+<rect x="930" y="288" width="86" height="72" rx="6" fill="#7A2718"/>
+<text x="939" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">800</text>
+<text x="939" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#7A2718</text>
+<rect x="1020" y="288" width="86" height="72" rx="6" fill="#4A160D"/>
+<text x="1029" y="308" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">900</text>
+<text x="1029" y="350" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#4A160D</text>
+<text x="40" y="412" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Ardoise</text>
+<text x="40" y="434" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">neutres verdis</text>
+<rect x="210" y="382" width="86" height="72" rx="6" fill="#F5F7F5" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">50</text>
+<text x="219" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F5F7F5</text>
+<rect x="300" y="382" width="86" height="72" rx="6" fill="#EDF0EE" stroke="#DDE2DE" stroke-width="1"/>
+<text x="309" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="309" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#EDF0EE</text>
+<rect x="390" y="382" width="86" height="72" rx="6" fill="#E3E7E4"/>
+<text x="399" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">150</text>
+<text x="399" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#E3E7E4</text>
+<rect x="480" y="382" width="86" height="72" rx="6" fill="#D3D8D4"/>
+<text x="489" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">200</text>
+<text x="489" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#D3D8D4</text>
+<rect x="570" y="382" width="86" height="72" rx="6" fill="#B3BAB5"/>
+<text x="579" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">300</text>
+<text x="579" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#B3BAB5</text>
+<rect x="660" y="382" width="86" height="72" rx="6" fill="#8B948E"/>
+<text x="669" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">400</text>
+<text x="669" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#8B948E</text>
+<rect x="750" y="382" width="86" height="72" rx="6" fill="#667069"/>
+<text x="759" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">500</text>
+<text x="759" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#667069</text>
+<rect x="840" y="382" width="86" height="72" rx="6" fill="#4C554F"/>
+<text x="849" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">600</text>
+<text x="849" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#4C554F</text>
+<rect x="930" y="382" width="86" height="72" rx="6" fill="#363F3A"/>
+<text x="939" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">700</text>
+<text x="939" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#363F3A</text>
+<rect x="1020" y="382" width="86" height="72" rx="6" fill="#232B27"/>
+<text x="1029" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">800</text>
+<text x="1029" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#232B27</text>
+<rect x="1110" y="382" width="86" height="72" rx="6" fill="#161D1A"/>
+<text x="1119" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">900</text>
+<text x="1119" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#161D1A</text>
+<rect x="1200" y="382" width="86" height="72" rx="6" fill="#0E1512"/>
+<text x="1209" y="402" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">950</text>
+<text x="1209" y="444" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#0E1512</text>
+<text x="40" y="506" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Papier</text>
+<text x="40" y="528" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">fonds crème</text>
+<rect x="210" y="476" width="86" height="72" rx="6" fill="#FAF8F3" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="496" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">50</text>
+<text x="219" y="538" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#FAF8F3</text>
+<rect x="300" y="476" width="86" height="72" rx="6" fill="#F2EEE5" stroke="#DDE2DE" stroke-width="1"/>
+<text x="309" y="496" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="309" y="538" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F2EEE5</text>
+<rect x="390" y="476" width="86" height="72" rx="6" fill="#E7E1D3"/>
+<text x="399" y="496" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">200</text>
+<text x="399" y="538" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#E7E1D3</text>
+<text x="40" y="600" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Teal</text>
+<text x="40" y="622" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">information</text>
+<rect x="210" y="570" width="86" height="72" rx="6" fill="#DDEDF1" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="590" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="219" y="632" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#DDEDF1</text>
+<rect x="300" y="570" width="86" height="72" rx="6" fill="#8FC2CE"/>
+<text x="309" y="590" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">300</text>
+<text x="309" y="632" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#8FC2CE</text>
+<rect x="390" y="570" width="86" height="72" rx="6" fill="#3A8798"/>
+<text x="399" y="590" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">500</text>
+<text x="399" y="632" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#3A8798</text>
+<rect x="480" y="570" width="86" height="72" rx="6" fill="#2A6B7C"/>
+<text x="489" y="590" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">600</text>
+<text x="489" y="632" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#2A6B7C</text>
+<rect x="570" y="570" width="86" height="72" rx="6" fill="#1E5261"/>
+<text x="579" y="590" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">700</text>
+<text x="579" y="632" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#1E5261</text>
+<text x="40" y="694" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#0C1A15">Rouge</text>
+<text x="40" y="716" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#4C554F">erreur</text>
+<rect x="210" y="664" width="86" height="72" rx="6" fill="#F7E4E1" stroke="#DDE2DE" stroke-width="1"/>
+<text x="219" y="684" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#0C1A15">100</text>
+<text x="219" y="726" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#0C1A15">#F7E4E1</text>
+<rect x="300" y="664" width="86" height="72" rx="6" fill="#8C1D18"/>
+<text x="309" y="684" font-family="'Schibsted Grotesk','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="700" fill="#FAF8F3">600</text>
+<text x="309" y="726" font-family="'JetBrains Mono',ui-monospace,Menlo,monospace" font-size="11" fill="#FAF8F3">#8C1D18</text>
+</svg>

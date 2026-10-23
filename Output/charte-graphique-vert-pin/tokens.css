@@ -1,0 +1,277 @@
+/* Charte graphique vert pin — tokens (Thomas Richard — Design System)
+   Copie fidèle des fichiers tokens/*.css du Design System, réunis en un seul fichier.
+   Source : https://claude.ai/artifact/DF5d9TEKmGvAkRxrdmPe1y — extrait le 2026-10-23. */
+
+/* ═══ tokens/fonts.css ═══ */
+@import url("https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=JetBrains+Mono:wght@400;500;700&display=swap");
+/* Webfonts are served by Google Fonts (variable). No local binaries are shipped:
+   all three families are open-source and CDN-hosted. See readme.md > Typography. */
+:root{
+  --font-display:"Schibsted Grotesk","Helvetica Neue",Arial,sans-serif;
+  --font-sans:"Schibsted Grotesk","Helvetica Neue",Arial,sans-serif;
+  --font-serif:"Source Serif 4",Charter,Georgia,"Times New Roman",serif;
+  --font-mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+
+/* ═══ tokens/colors.css ═══ */
+:root{
+  /* ── Base ramps ─────────────────────────────────────────────
+     Pine  : couleur signature, tirée du fond du portrait. Calme, crédible.
+     Ambre : jaune doré, couleur des yeux. Action (CTA), signal, surlignage.
+     Brique: chaleur du chandail rouge. Sur-titres, séparateurs, variante d'accent.
+     Ardoise: neutres verdis, jamais gris froid.
+     Papier: fond crème, confort de lecture longue.                       */
+  --pine-50:#EFF6F2; --pine-100:#DCEBE3; --pine-200:#B7D7C7; --pine-300:#83BBA4;
+  --pine-400:#4F9B7E; --pine-500:#327A60; --pine-600:#26604C; --pine-700:#1C4B3C;
+  --pine-800:#163526; --pine-900:#10241C; --pine-950:#0C1A15;
+
+  --brique-50:#FDF1ED; --brique-100:#FBE5DF; --brique-200:#F5C9BD; --brique-300:#EBA391;
+  --brique-400:#DC7C64; --brique-500:#C85B41; --brique-600:#B4472F; --brique-700:#94331F;
+  --brique-800:#7A2718; --brique-900:#4A160D;
+
+  --ambre-100:#FDF4E4; --ambre-200:#F9E8C8; --ambre-300:#F3D69C; --ambre-400:#E8BE6E;
+  --ambre-500:#D9A441; --ambre-600:#B07C1E; --ambre-700:#8A5F14;
+
+  --teal-100:#DDEDF1; --teal-300:#8FC2CE; --teal-500:#3A8798; --teal-600:#2A6B7C; --teal-700:#1E5261;
+
+  --ardoise-50:#F5F7F5; --ardoise-100:#EDF0EE; --ardoise-150:#E3E7E4; --ardoise-200:#D3D8D4;
+  --ardoise-300:#B3BAB5; --ardoise-400:#8B948E; --ardoise-500:#667069; --ardoise-600:#4C554F;
+  --ardoise-700:#363F3A; --ardoise-800:#232B27; --ardoise-900:#161D1A; --ardoise-950:#0E1512;
+
+  --papier-50:#FAF8F3; --papier-100:#F2EEE5; --papier-200:#E7E1D3;
+
+  --rouge-600:#8C1D18; --rouge-100:#F7E4E1;
+
+  /* ── Rôles sémantiques — thème clair (défaut) ───────────── */
+  --surface-page:var(--papier-50);
+  --surface-card:#FFFFFF;
+  --surface-sunken:var(--papier-100);
+  --surface-raised:#FFFFFF;
+  --surface-soft:var(--pine-50);
+  --surface-inverse:var(--pine-950);
+  --surface-accent:var(--ambre-500);
+  --surface-highlight:var(--ambre-200);
+  --surface-overlay:rgba(12,26,21,.62);
+
+  --text-strong:var(--pine-950);
+  --text-body:var(--ardoise-800);
+  --text-muted:var(--ardoise-600);
+  --text-subtle:var(--ardoise-500);
+  --text-inverse:var(--papier-50);
+  --text-inverse-muted:var(--pine-200);
+  --text-brand:var(--pine-700);
+  --text-accent:var(--brique-700);
+  --text-link:var(--pine-700);
+  --text-link-hover:var(--brique-700);
+
+  --border-hairline:#DDE2DE;
+  --border-default:var(--ardoise-200);
+  --border-strong:var(--ardoise-300);
+  --border-inverse:rgba(245,247,245,.18);
+  --border-brand:var(--pine-600);
+
+  --action-primary-bg:var(--pine-700);
+  --action-primary-bg-hover:var(--pine-800);
+  --action-primary-bg-active:var(--pine-900);
+  --action-primary-fg:#F7FBF8;
+  --action-accent-bg:var(--ambre-500);
+  --action-accent-bg-hover:var(--ambre-600);
+  --action-accent-fg:var(--pine-950);
+  --action-quiet-bg:transparent;
+  --action-quiet-bg-hover:var(--pine-50);
+  --action-quiet-fg:var(--pine-700);
+  --action-disabled-bg:var(--ardoise-150);
+  --action-disabled-fg:var(--ardoise-400);
+
+  --feedback-success-fg:var(--pine-700); --feedback-success-bg:var(--pine-100);
+  --feedback-warning-fg:var(--ambre-700); --feedback-warning-bg:var(--ambre-100);
+  --feedback-danger-fg:var(--rouge-600);  --feedback-danger-bg:var(--rouge-100);
+  --feedback-info-fg:var(--teal-700);     --feedback-info-bg:var(--teal-100);
+
+  --focus-ring-color:var(--ambre-500);
+
+  /* Surfaces éditoriales : miniatures, cartes-titres, carrousels */
+  --editorial-bg:var(--pine-950);
+  --editorial-fg:var(--papier-50);
+  --editorial-accent:var(--ambre-500);
+  --editorial-hot:var(--brique-500);
+  --editorial-rule:var(--ambre-500);
+}
+
+/* ── Thème sombre ─────────────────────────────────────────── */
+[data-theme="dark"]{
+  --surface-page:var(--ardoise-950);
+  --surface-card:var(--ardoise-900);
+  --surface-sunken:#0A0F0D;
+  --surface-raised:#1C2420;
+  --surface-soft:var(--pine-900);
+  --surface-inverse:var(--papier-50);
+  --surface-accent:var(--ambre-400);
+  --surface-highlight:rgba(217,164,65,.22);
+  --surface-overlay:rgba(6,12,10,.72);
+
+  --text-strong:var(--papier-50);
+  --text-body:var(--ardoise-200);
+  --text-muted:var(--ardoise-400);
+  --text-subtle:var(--ardoise-500);
+  --text-inverse:var(--pine-950);
+  --text-inverse-muted:var(--pine-800);
+  --text-brand:var(--pine-300);
+  --text-accent:var(--brique-300);
+  --text-link:var(--pine-300);
+  --text-link-hover:var(--ambre-400);
+
+  --border-hairline:#2B342F;
+  --border-default:#333C37;
+  --border-strong:#4A544E;
+  --border-inverse:rgba(14,21,18,.18);
+  --border-brand:var(--pine-400);
+
+  --action-primary-bg:var(--pine-300);
+  --action-primary-bg-hover:var(--pine-200);
+  --action-primary-bg-active:var(--pine-400);
+  --action-primary-fg:var(--pine-950);
+  --action-accent-bg:var(--ambre-400);
+  --action-accent-bg-hover:var(--ambre-300);
+  --action-accent-fg:var(--pine-950);
+  --action-quiet-bg-hover:rgba(131,187,164,.12);
+  --action-quiet-fg:var(--pine-300);
+  --action-disabled-bg:#242C28;
+  --action-disabled-fg:var(--ardoise-600);
+
+  --feedback-success-fg:var(--pine-300); --feedback-success-bg:rgba(50,122,96,.20);
+  --feedback-warning-fg:var(--ambre-400); --feedback-warning-bg:rgba(217,164,65,.18);
+  --feedback-danger-fg:#F0A79C;           --feedback-danger-bg:rgba(140,29,24,.28);
+  --feedback-info-fg:var(--teal-300);     --feedback-info-bg:rgba(42,107,124,.24);
+}
+
+/* ── Variantes d'accent (mêmes rôles, autre température) ──── */
+[data-accent="brique"]{ --action-accent-bg:var(--brique-600); --action-accent-bg-hover:var(--brique-700); --action-accent-fg:#FFF6F2; --surface-accent:var(--brique-600); --editorial-hot:var(--brique-500); }
+[data-accent="teal"]{ --action-accent-bg:var(--teal-600); --action-accent-bg-hover:var(--teal-700); --action-accent-fg:#F2FAFC; --text-accent:var(--teal-700); --editorial-hot:var(--teal-500); }
+
+/* ═══ tokens/typography.css ═══ */
+:root{
+  /* Échelle modulaire ~1.18, arrondie à des valeurs lisibles */
+  --size-100:12px; --size-200:13px; --size-300:14px; --size-400:16px; --size-500:18px;
+  --size-600:21px; --size-700:24px; --size-800:28px; --size-900:33px; --size-1000:40px;
+  --size-1100:48px; --size-1200:58px; --size-1300:72px; --size-1400:88px; --size-1500:104px;
+
+  --weight-regular:400; /* @kind other */ --weight-medium:500; /* @kind other */ --weight-semibold:600; /* @kind other */ --weight-bold:700; /* @kind other */ --weight-black:800; /* @kind other */
+
+  --lh-tight:1.04; /* @kind other */ --lh-heading:1.14; /* @kind other */ --lh-snug:1.3; /* @kind other */ --lh-body:1.6; /* @kind other */ --lh-relaxed:1.75; /* @kind other */
+
+  --track-display:-0.022em; /* @kind other */ --track-heading:-0.014em; /* @kind other */ --track-tight:-0.008em; /* @kind other */
+  --track-normal:0em; /* @kind other */ --track-caps:0.09em; /* @kind other */ --track-wide:0.02em; /* @kind other */
+
+  /* Rôles */
+  --type-display-font:var(--font-display);
+  --type-display-size:var(--size-1300);
+  --type-display-weight:var(--weight-bold); /* @kind other */
+  --type-display-lh:var(--lh-tight); /* @kind other */
+  --type-display-track:var(--track-display); /* @kind other */
+
+  --type-h1-size:var(--size-1000); --type-h2-size:var(--size-800); --type-h3-size:var(--size-600);
+  --type-h4-size:var(--size-500);
+  --type-heading-weight:var(--weight-semibold); /* @kind other */
+  --type-heading-lh:var(--lh-heading); /* @kind other */
+
+  --type-body-font:var(--font-sans);
+  --type-body-size:var(--size-400);
+  --type-body-lh:var(--lh-body); /* @kind other */
+
+  --type-prose-font:var(--font-serif);
+  --type-prose-size:var(--size-500);
+  --type-prose-lh:var(--lh-relaxed); /* @kind other */
+
+  --type-lead-size:var(--size-600); --type-lead-lh:1.45; /* @kind other */
+  --type-small-size:var(--size-300);
+  --type-caption-size:var(--size-200);
+  --type-eyebrow-size:var(--size-200);
+  --type-eyebrow-weight:var(--weight-semibold); /* @kind other */
+  --type-eyebrow-track:var(--track-caps); /* @kind other */
+  --type-mono-font:var(--font-mono);
+  --type-mono-size:var(--size-300);
+
+  /* Éditorial : miniatures YouTube, cartes-titres, carrousels */
+  --type-thumb-size:var(--size-1400);
+  --type-thumb-weight:var(--weight-black); /* @kind other */
+  --type-thumb-lh:0.98; /* @kind other */
+  --type-thumb-track:-0.03em; /* @kind other */
+}
+
+/* ═══ tokens/spacing.css ═══ */
+:root{
+  --space-0:0px; --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px;
+  --space-5:20px; --space-6:24px; --space-7:32px; --space-8:40px; --space-9:48px;
+  --space-10:64px; --space-11:80px; --space-12:96px; --space-13:128px; --space-14:160px;
+
+  --gap-inline:var(--space-3);
+  --gap-stack:var(--space-4);
+  --gap-section:var(--space-11);
+  --pad-card:var(--space-6);
+  --pad-card-lg:var(--space-8);
+  --pad-field-x:var(--space-4);
+  --pad-field-y:10px;
+  --pad-button-x:var(--space-5);
+  --pad-button-y:11px;
+}
+
+/* ═══ tokens/radius.css ═══ */
+:root{
+  --radius-0:0px; --radius-xs:3px; --radius-sm:6px; --radius-md:10px; --radius-lg:14px;
+  --radius-xl:20px; --radius-2xl:28px; --radius-pill:999px;
+  --radius-button:8px; --radius-field:8px; --radius-card:12px; --radius-media:6px; --radius-badge:var(--radius-pill);
+  --border-1:1px; --border-2:2px; --rule-strong:3px;
+}
+
+/* ═══ tokens/elevation.css ═══ */
+:root{
+  /* Ombres teintées pin, jamais noires : douces, courtes, discrètes. */
+  --shadow-none:none;
+  --shadow-xs:0 1px 2px rgba(16,36,28,.06);
+  --shadow-sm:0 1px 3px rgba(16,36,28,.08),0 1px 2px -1px rgba(16,36,28,.06);
+  --shadow-md:0 4px 12px -2px rgba(16,36,28,.10),0 2px 4px -2px rgba(16,36,28,.06);
+  --shadow-lg:0 12px 32px -8px rgba(16,36,28,.16);
+  --shadow-xl:0 28px 60px -20px rgba(16,36,28,.24);
+  --shadow-focus:0 0 0 3px rgba(217,164,65,.45);
+  --shadow-hairline:inset 0 0 0 1px var(--border-hairline);
+  --scrim-bottom:linear-gradient(to top,rgba(12,26,21,.85) 0%,rgba(12,26,21,.55) 40%,rgba(12,26,21,0) 100%); /* @kind other */
+  --scrim-top:linear-gradient(to bottom,rgba(12,26,21,.75) 0%,rgba(12,26,21,0) 100%); /* @kind other */
+}
+[data-theme="dark"]{
+  --shadow-xs:0 1px 2px rgba(0,0,0,.4);
+  --shadow-sm:0 1px 3px rgba(0,0,0,.45);
+  --shadow-md:0 4px 14px -2px rgba(0,0,0,.5);
+  --shadow-lg:0 14px 36px -10px rgba(0,0,0,.6);
+  --shadow-xl:0 30px 64px -22px rgba(0,0,0,.7);
+}
+
+/* ═══ tokens/motion.css ═══ */
+:root{
+  --ease-standard:cubic-bezier(.2,.6,.2,1); /* @kind other */
+  --ease-out:cubic-bezier(.16,1,.3,1); /* @kind other */
+  --ease-in:cubic-bezier(.6,0,.9,.2); /* @kind other */
+  --ease-inout:cubic-bezier(.65,0,.35,1); /* @kind other */
+  --dur-instant:80ms; /* @kind other */
+  --dur-fast:140ms; /* @kind other */
+  --dur-base:220ms; /* @kind other */
+  --dur-slow:380ms; /* @kind other */
+  --dur-scene:620ms; /* @kind other */
+  --transition-control:background-color var(--dur-fast) var(--ease-standard),border-color var(--dur-fast) var(--ease-standard),color var(--dur-fast) var(--ease-standard),box-shadow var(--dur-fast) var(--ease-standard); /* @kind other */
+  --lift-hover:translateY(-1px); /* @kind other */
+  --press-scale:0.985; /* @kind other */
+}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.001ms !important;animation-iteration-count:1 !important;transition-duration:.001ms !important;scroll-behavior:auto !important}}
+
+/* ═══ tokens/layout.css ═══ */
+:root{
+  --measure-narrow:46ch; /* @kind other */ --measure-prose:68ch; /* @kind other */ --measure-wide:78ch; /* @kind other */
+  --container-sm:640px; --container-md:840px; --container-lg:1080px; --container-xl:1280px; --container-full:1440px;
+  --page-pad-sm:20px; --page-pad-md:32px; --page-pad-lg:48px;
+  --grid-columns:12; /* @kind other */ --grid-gutter:24px;
+  --header-height:68px;
+  --z-base:0; /* @kind other */ --z-dropdown:100; /* @kind other */ --z-sticky:200; /* @kind other */ --z-overlay:800; /* @kind other */ --z-modal:900; /* @kind other */ --z-toast:1000; /* @kind other */
+  /* Formats de production */
+  --canvas-thumb:1280px/720px; /* @kind other */ --canvas-slide:1920px/1080px; /* @kind other */ --canvas-vertical:1080px/1920px; /* @kind other */ --canvas-carousel:1080px/1350px; /* @kind other */
+}
+
