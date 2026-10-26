@@ -104,6 +104,31 @@ Fais-les évoluer avec ton système.
 
 ---
 
+## Skill compagnon — `personnalise`
+
+Tu tombes sur un skill, un prompt ou un repo qui a l'air génial ? Avant de l'installer,
+passe-le à `/personnalise`. Il :
+
+- **vérifie qu'il est propre** — instructions cachées, scripts distants, fuite de données,
+  permissions trop larges, actions en douce ;
+- **juge s'il te sert vraiment** — au regard de ton objectif (`moi.md`), de tes interdits
+  (`anti-ia.md`), de tes outils (`doctrine.md`) et de ce que tu as déjà ;
+- **propose un plan d'adaptation** — où le ranger dans ton vault IPCRA, quoi renommer,
+  quoi retirer, quoi relier.
+
+Rien n'est installé sans ton feu vert. Pour l'installer, colle dans Claude Code :
+
+```
+Installe ce skill : télécharge
+https://raw.githubusercontent.com/thomrichard/aios-bootstrap/main/personnalise.md
+et enregistre-le dans ~/.claude/skills/personnalise/SKILL.md
+puis confirme qu'il est bien détecté.
+```
+
+Puis, dans ton vault : **« /personnalise https://github.com/… »**.
+
+---
+
 ## Aller plus loin
 
 Ce skill pose les fondations. Pour la personnalisation, les échanges et les exemples
